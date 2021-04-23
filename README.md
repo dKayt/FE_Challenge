@@ -24,7 +24,7 @@ Users should be able to:
 - To center the work in the middle of the screen
 - To use Border-Radius
 
-### To approve
+### To improve
 
 - Responsive to mobile screen
 - Font Family should be added
