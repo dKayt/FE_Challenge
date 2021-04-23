@@ -9,14 +9,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+Look in the result folder
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 ### What I learned
 
@@ -24,7 +22,7 @@ Users should be able to:
 - To center the work in the middle of the screen
 - To use Border-Radius
 
-### To approve
+### To improve
 
 - Responsive to mobile screen
 - Font Family should be added
