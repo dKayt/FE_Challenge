@@ -25,4 +25,3 @@ Look in the result folder
 ### To improve
 
 - Responsive to mobile screen
-- Font Family should be added
